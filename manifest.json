@@ -1,0 +1,21 @@
+{
+  "Group": "TheQuietAgeofHytale",
+  "Name": "The-Quiet-Age-of-Hytale",
+  "Version": "1.0.0",
+  "Description": "The official Quiet Age of Hytale mod!",
+  "Authors": [
+    {
+      "Name": "Avenkyr Pakacit",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": ">=0.5.3 <0.6.0",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
