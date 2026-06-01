@@ -1,2 +1,4 @@
 Ingredient_Bar_Yaetal.name = Yaetal Ingot
-server.items.Ingredient_Bar_Yaetal.description = A metal smelted from any number of metals, produced via a combination of powdered rumi.
+server.items.Raw_Yaetal.name = Raw Yaetal
+server.items.Raw_Yaetal.description = A metal smelted from any number of metals, produced via a combination of powdered rumi.
+server.items.Ingredient_Bar_Yaetal.description = Finely forged Yaetal.

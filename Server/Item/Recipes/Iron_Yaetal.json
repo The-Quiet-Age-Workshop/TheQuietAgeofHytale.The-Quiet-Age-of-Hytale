@@ -1,0 +1,22 @@
+{
+  "Input": [
+    {
+      "ItemId": "Ore_Iron",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Raw_Yaetal",
+    "Quantity": 1
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Workbench",
+      "Categories": [
+        "Workbench_Tools"
+      ]
+    }
+  ],
+  "TimeSeconds": 4
+}

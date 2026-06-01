@@ -5,7 +5,7 @@
   "Recipe": {
     "Input": [
       {
-        "ItemId": "Ore_Copper",
+        "ItemId": "Raw_Yaetal",
         "Quantity": 1
       }
     ],
