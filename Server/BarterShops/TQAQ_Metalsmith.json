@@ -1,0 +1,31 @@
+{
+  "DisplayNameKey": "tqah.server.barter.tqah_metalsmith.title",
+  "RefreshInterval": {
+    "Days": 3
+  },
+  "RestockHour": 6,
+  "TradeSlots": [
+    {
+      "Type": "Pool",
+      "SlotCount": 1,
+      "Trades": [
+        {
+          "Weight": 25,
+          "Output": {
+            "ItemId": "Ingredient_Bar_Yaetal",
+            "Quantity": 100
+          },
+          "Input": [
+            {
+              "ItemId": "Raw_Yaetal",
+              "Quantity": 25
+            }
+          ],
+          "Stock": [
+            25
+          ]
+        }
+      ]
+    }
+  ]
+}

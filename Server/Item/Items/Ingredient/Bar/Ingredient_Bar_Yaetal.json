@@ -50,7 +50,7 @@
   "ItemSoundSetId": "ISS_Items_Ingots",
   "DropOnDeath": true,
   "TranslationProperties": {
-    "Description": "items.server.items.Ingredient_Bar_Yaetal.description",
-    "Name": "items.Ingredient_Bar_Yaetal.name"
+    "Description": "tqah.server.items.Ingredient_Bar_Yaetal.description",
+    "Name": "tqah.Ingredient_Bar_Yaetal.name"
   }
 }

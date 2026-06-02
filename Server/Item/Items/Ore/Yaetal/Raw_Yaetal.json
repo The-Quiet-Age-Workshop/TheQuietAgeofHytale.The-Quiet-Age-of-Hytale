@@ -1,7 +1,7 @@
 {
   "TranslationProperties": {
-    "Name": "items.server.items.Raw_Yaetal.name",
-    "Description": "items.server.items.Raw_Yaetal.description"
+    "Name": "tqah.server.items.Raw_Yaetal.name",
+    "Description": "tqah.server.items.Raw_Yaetal.description"
   },
   "Categories": [
     "Blocks.Ores"
