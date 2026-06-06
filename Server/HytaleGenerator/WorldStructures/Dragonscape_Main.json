@@ -1,11 +1,5 @@
 {
   "Type": "NoiseRange",
-  "Biomes": [
-    {
-      "Biome": "Dragonscape_Savanna"
-    }
-  ],
-  "DefaultBiome": "Dragonscape_Main",
   "DefaultTransitionDistance": 32,
   "MaxBiomeEdgeDistance": 32,
   "Density": {
@@ -66,5 +60,6 @@
   ],
   "Tags": {
     "Template": []
-  }
+  },
+  "DefaultBiome": "Dragonscape_Main"
 }
