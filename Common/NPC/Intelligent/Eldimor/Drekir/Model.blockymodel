@@ -420,7 +420,7 @@
                             },
                             {
                               "id": "11",
-                              "name": "L-Ear",
+                              "name": "R-Ear",
                               "position": {"x": -33.73, "y": -15.88, "z": -11.91},
                               "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                               "shape": {
@@ -439,7 +439,7 @@
                               "children": [
                                 {
                                   "id": "12",
-                                  "name": "L-Ear--C1",
+                                  "name": "R-Ear--C1",
                                   "position": {"x": 3, "y": 0, "z": 0},
                                   "orientation": {"x": 0.43605, "y": 0.72422, "z": -0.06265, "w": 0.53051},
                                   "shape": {
@@ -469,7 +469,7 @@
                             },
                             {
                               "id": "13",
-                              "name": "R-Ear",
+                              "name": "L-Ear",
                               "position": {"x": 43.67, "y": -15.88, "z": -11.91},
                               "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                               "shape": {
@@ -488,7 +488,7 @@
                               "children": [
                                 {
                                   "id": "14",
-                                  "name": "R-Ear--C1",
+                                  "name": "L-Ear--C1",
                                   "position": {"x": -5, "y": 0, "z": 0},
                                   "orientation": {"x": 0.43605, "y": -0.72422, "z": 0.06265, "w": 0.53051},
                                   "shape": {
@@ -595,7 +595,7 @@
                     },
                     {
                       "id": "17",
-                      "name": "L-Shoulder",
+                      "name": "R-Shoulder",
                       "position": {"x": 3.82, "y": -14.94, "z": -33.91},
                       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                       "shape": {
@@ -646,7 +646,7 @@
                       "children": [
                         {
                           "id": "18",
-                          "name": "L-Forearm",
+                          "name": "R-Forearm",
                           "position": {"x": 8.5, "y": -12.91, "z": -0.06},
                           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                           "shape": {
@@ -697,7 +697,7 @@
                           "children": [
                             {
                               "id": "19",
-                              "name": "L-Hand",
+                              "name": "R-Hand",
                               "position": {"x": 4.03, "y": -5.97, "z": 0.97},
                               "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                               "shape": {
@@ -716,7 +716,7 @@
                               "children": [
                                 {
                                   "id": "20",
-                                  "name": "L-Hand--C1",
+                                  "name": "R-Hand--C1",
                                   "position": {"x": 0, "y": 0, "z": 0},
                                   "orientation": {"x": 0.34202, "y": 0, "z": 0, "w": 0.93969},
                                   "shape": {
@@ -768,9 +768,9 @@
                                 },
                                 {
                                   "id": "21",
-                                  "name": "L-Attachment",
+                                  "name": "R-Attachment",
                                   "position": {"x": -3, "y": -10, "z": 3},
-                                  "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                  "orientation": {"x": 0.34202, "y": 0, "z": 0, "w": 0.93969},
                                   "shape": {
                                     "type": "none",
                                     "offset": {"x": 0, "y": 0, "z": 0},
@@ -793,7 +793,7 @@
                     },
                     {
                       "id": "22",
-                      "name": "R-Shoulder",
+                      "name": "L-Shoulder",
                       "position": {"x": -4.12, "y": -14.94, "z": -33.91},
                       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                       "shape": {
@@ -844,7 +844,7 @@
                       "children": [
                         {
                           "id": "23",
-                          "name": "R-Forearm",
+                          "name": "L-Forearm",
                           "position": {"x": -7.5, "y": -12.91, "z": -0.06},
                           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                           "shape": {
@@ -895,7 +895,7 @@
                           "children": [
                             {
                               "id": "24",
-                              "name": "R-Hand",
+                              "name": "L-Hand",
                               "position": {"x": -4.03, "y": -5.97, "z": 0.97},
                               "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                               "shape": {
@@ -914,7 +914,7 @@
                               "children": [
                                 {
                                   "id": "25",
-                                  "name": "R-Hand--C1",
+                                  "name": "L-Hand--C1",
                                   "position": {"x": 0, "y": 0, "z": 0},
                                   "orientation": {"x": 0.34202, "y": 0, "z": 0, "w": 0.93969},
                                   "shape": {
@@ -966,9 +966,9 @@
                                 },
                                 {
                                   "id": "26",
-                                  "name": "R-Attachment",
+                                  "name": "L-Attachment",
                                   "position": {"x": 3.36, "y": -10, "z": 3},
-                                  "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
+                                  "orientation": {"x": 0.34202, "y": 0, "z": 0, "w": 0.93969},
                                   "shape": {
                                     "type": "none",
                                     "offset": {"x": 0, "y": 0, "z": 0},
@@ -1274,7 +1274,7 @@
                 },
                 {
                   "id": "33",
-                  "name": "L-Thigh",
+                  "name": "R-Thigh",
                   "position": {"x": -47.82, "y": 15.32, "z": -2.09},
                   "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                   "shape": {
@@ -1293,7 +1293,7 @@
                   "children": [
                     {
                       "id": "34",
-                      "name": "L-Thigh--C1",
+                      "name": "R-Thigh--C1",
                       "position": {"x": 0, "y": 0, "z": 0},
                       "orientation": {"x": -0.42262, "y": 0, "z": 0, "w": 0.90631},
                       "shape": {
@@ -1345,7 +1345,7 @@
                     },
                     {
                       "id": "35",
-                      "name": "L-Calf",
+                      "name": "R-Calf",
                       "position": {"x": 3.97, "y": -31.76, "z": -15.88},
                       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                       "shape": {
@@ -1396,7 +1396,7 @@
                       "children": [
                         {
                           "id": "36",
-                          "name": "L-Calf--C1",
+                          "name": "R-Calf--C1",
                           "position": {"x": -8, "y": 26.82, "z": -2.06},
                           "orientation": {"x": 0.19553, "y": 0.01079, "z": 0.00179, "w": 0.98064},
                           "shape": {
@@ -1448,7 +1448,7 @@
                         },
                         {
                           "id": "37",
-                          "name": "L-Foot",
+                          "name": "R-Foot",
                           "position": {"x": -0.06, "y": -8.91, "z": -2.06},
                           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                           "shape": {
@@ -1503,7 +1503,7 @@
                 },
                 {
                   "id": "38",
-                  "name": "R-Thigh",
+                  "name": "L-Thigh",
                   "position": {"x": 23.64, "y": 15.32, "z": -2.09},
                   "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                   "shape": {
@@ -1522,7 +1522,7 @@
                   "children": [
                     {
                       "id": "39",
-                      "name": "R-Thigh--C1",
+                      "name": "L-Thigh--C1",
                       "position": {"x": 0, "y": 0, "z": 0},
                       "orientation": {"x": -0.42262, "y": 0, "z": 0, "w": 0.90631},
                       "shape": {
@@ -1574,7 +1574,7 @@
                     },
                     {
                       "id": "40",
-                      "name": "R-Calf",
+                      "name": "L-Calf",
                       "position": {"x": 0, "y": 0, "z": 0},
                       "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                       "shape": {
@@ -1625,7 +1625,7 @@
                       "children": [
                         {
                           "id": "41",
-                          "name": "R-Calf--C1",
+                          "name": "L-Calf--C1",
                           "position": {"x": -8, "y": 26.82, "z": -2.06},
                           "orientation": {"x": 0.19553, "y": 0.01079, "z": 0.00179, "w": 0.98064},
                           "shape": {
@@ -1677,7 +1677,7 @@
                         },
                         {
                           "id": "42",
-                          "name": "R-Foot",
+                          "name": "L-Foot",
                           "position": {"x": -0.06, "y": 6.97, "z": -2.06},
                           "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                           "shape": {
